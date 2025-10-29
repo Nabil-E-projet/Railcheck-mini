@@ -68,7 +68,7 @@ docker/
 
 ### Generation de donnees
 - Simulation train UFM 160 a 140 km/h
-- 3600 mesures par defaut (6 minutes)
+- 3600 mesures par defaut 
 - Hauteur catenaire selon EN 13848 (4.0-7.0m)
 - 4% d'anomalies aleatoires : boulon_manquant, signalisation_defaillante, rail_fissure
 
